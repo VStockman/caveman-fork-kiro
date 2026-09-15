@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "caveman",
+  "version": "2.7.0",
+  "description": "Ultra-compressed communication mode plus token-discipline work patterns. Shortens prose while preserving technical terms, code, commands, and exact errors, and bundles the cavecrew delegation and Caveman Cloud engine skills.",
+  "author": {
+    "name": "Julius Brussee",
+    "url": "https://github.com/JuliusBrussee"
+  },
+  "homepage": "https://github.com/JuliusBrussee/caveman",
+  "repository": "https://github.com/JuliusBrussee/caveman",
+  "license": "MIT",
+  "keywords": [
+    "caveman",
+    "caveman mode",
+    "talk like caveman",
+    "be brief",
+    "less tokens",
+    "compress",
+    "commit message",
+    "code review",
+    "cavecrew",
+    "investigate",
+    "refactor",
+    "migration",
+    "token cost"
+  ]
+}
